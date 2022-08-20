@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_World</string>
+    <string name="greetingText">Hello World! My name is Funmibi Makanjuola this is my first android app with Kotlin.</string>
+    <string name="btnSayHelloText">Say Hello!</string>
+</resources>
