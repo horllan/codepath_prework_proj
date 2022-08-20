@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         btnSayHello.setOnClickListener{
             Log.v("Hello world", "Hello world button clicked")
+//            this is like a modal it display the specified text for the specified duration
             Toast.makeText(this, "Hello to you too!", Toast.LENGTH_SHORT).show()
         }
     }
